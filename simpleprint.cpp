@@ -4,7 +4,7 @@
 using namespace std;
 
 int main() {
-  // c-out is how to print in c++ with the string attached
-  cout << "Hello World!";
-  return 0;
+    // c-out is how to print in c++ with the string attached
+    cout << "Hello World!";
+    return 0;
 }
